@@ -121,8 +121,8 @@ opacity: 0;
   padding: 0 8px;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
-  box-sizing: border-box; 
-  background-color: #9f9acf;
+  box-sizing: border-box;
+  background-color: black;
 }
 
 .mfp-container:before {
@@ -232,7 +232,7 @@ button::-moz-focus-inner {
   font-style: normal;
   font-size: 28px;
   outline:none;
-  font-family: 'Open Sans', sans-serif;		
+  font-family: 'Open Sans', sans-serif;
  }
   .mfp-close:hover, .mfp-close:focus {
     opacity: 1; }
@@ -246,7 +246,7 @@ button::-moz-focus-inner {
   right: -6px;
   text-align: right;
   padding-right: 6px;
-  width: 100%; 
+  width: 100%;
 }
 /*----*/
 .login{
@@ -259,9 +259,9 @@ button::-moz-focus-inner {
 	width: 93%;
 	border: none;
 	font-size:1.8em;
-	color:#fff;	
+	color:#fff;
 }
-.login input[type="submit"] {	
+.login input[type="submit"] {
 	width: 26px;
 	height: 26px;
 	background: url(../images/search.png) no-repeat ;
@@ -305,4 +305,4 @@ button::-moz-focus-inner {
 	width: 70%;
 	font-size:1em;
 }
-} 
+}
